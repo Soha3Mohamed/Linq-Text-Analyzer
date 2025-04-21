@@ -9,7 +9,7 @@ namespace LinqTextAnalyzer
     {
         static void Main(string[] args)
         {
-            //C:\Users\soha mohamed\Downloads\linqTextANalyzer\TRY1.txt
+            
             Console.Write("Write the path of the file you want to process: ");
             string path = Console.ReadLine();
 
